@@ -1,1 +1,1 @@
-oe-perporg-mintazh
+oe-perprog-mintazh
